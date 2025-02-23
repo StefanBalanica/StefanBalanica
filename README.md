@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Stefan Balanica 👋
 💻 Software Developer | 🚀 Open Source Contributor  
 
 ### 📌 About Me
