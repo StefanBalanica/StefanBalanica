@@ -1,16 +1,16 @@
 # Hi, I'm Stefan Balanica 👋
-💻 Software Developer | 🚀 Open Source Contributor  
+💻 Passionate About Frontend & Mobile | 🎨 UI/UX Learner | 🚀 Growing as a Software Developer 
 
 ### 📌 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 Learning **React, TypeScript, and Cloud Computing**
-- 📫 Reach me at **[your.email@example.com]**
+- 🔭 I'm currently a second-year student studying Computer Science at the Faculty of Mathematics and Computer Science.
+- 🌱 Learning **Nextjs, TypeScript,Python, C#, Java**
+- 🌍 Based in Brasov,Romania | Available for freelance & collaborations
+- 📫 Reach me at **[stefanbalanica22@yahoo.com]**
 
 ### Connect with me:
 [![LinkedIn](https://raw.githubusercontent.com/user/repository/main/linkedin.png)](https://www.linkedin.com/in/ștefan-bălănică-4719a0289)
-### 🔧 Skills & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBalanica&layout=compact&theme=radical)
 
 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StefanBalanica&show_icons=true&theme=radical)
