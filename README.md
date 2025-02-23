@@ -11,7 +11,7 @@
 [<img src="https://github.com/StefanBalanica/StefanBalanica/blob/main/linked-in-alt.svg" alt="LinkedIn" width="30" />](https://www.linkedin.com/in/ștefan-bălănică-4719a0289)
 
 ### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBalanica&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBalanica&layout=compact&theme=radical&langs_count=10)
 
-### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StefanBalanica&show_icons=true&theme=radical)
+
+
