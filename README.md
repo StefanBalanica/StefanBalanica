@@ -8,9 +8,10 @@
 - 📫 Reach me at **[stefanbalanica22@yahoo.com]**
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/user/repository/main/linkedin.png)](https://www.linkedin.com/in/ștefan-bălănică-4719a0289)
+[<img src="https://github.com/StefanBalanica/StefanBalanica/blob/main/linked-in-alt.svg" alt="LinkedIn" width="30" />](https://www.linkedin.com/in/ștefan-bălănică-4719a0289)
+
 ### 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanBalanica&layout=compact&theme=radical)
 
-📊 **GitHub Stats**
+### 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StefanBalanica&show_icons=true&theme=radical)
